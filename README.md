@@ -98,7 +98,7 @@ If WSGNN is useful or relevant to your research, please kindly recognize our con
 @inproceedings{lao2022wsgnn,
     title={Variational Inference for Training Graph Neural Networks in Low-Data Regime through Joint Structure-Label Estimation},
     author={Lao, Danning and Yang, Xinyu, and Wu, Qitian and Yan, Junchi},
-    booktitle={KDD},
+    booktitle={ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
     year={2022}
 }
 ```
